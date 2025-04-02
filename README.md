@@ -45,7 +45,7 @@ cd StrapiApp
 
 1. Убедитесь, что Docker запущен на вашей машине.
 
-2. Запустите проект с помощью `docker-compose`:
+2. Запустите проект с помощью `docker-compose` (Запускать в директории app):
    ```bash
    docker-compose up --build
    ```
